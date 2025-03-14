@@ -5,7 +5,7 @@ const Skills = [
     "HTML5",
     "CSS3",
     "JavaScript",
-    "React",
+    "React.js",
     "Tailwind CSS",
     "Firebase",
     "C++"
